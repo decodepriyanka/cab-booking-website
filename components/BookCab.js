@@ -47,7 +47,7 @@ const BookCab = () => {
               </div>
             </div>
 
-            {/cab information end/}
+            {/*cab information end */}
           </div>
         </div>
         <div className={styles.bookingOrder}>
